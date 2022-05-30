@@ -1,3 +1,5 @@
+// USING STATE MAKES A COMPONENT CONTROLLED, WHILE REF MAKES IT A UNCONTROLLED COMPONENT.
+
 import React, { useState, useRef } from "react"
 import Card from "../UI/Card"
 import classes from "./AddUser.module.css"

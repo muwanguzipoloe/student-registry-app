@@ -1,4 +1,5 @@
 // USING STATE MAKES A COMPONENT CONTROLLED, WHILE REF MAKES IT A UNCONTROLLED COMPONENT.
+// useRef is much better because of less lines to be written for similar functionality
 
 import React, { useState, useRef } from "react"
 import Card from "../UI/Card"
